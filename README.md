@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently studying at Technological University Philippines - Cavite
+Graduated at Technological University Philippines - Cavite
 
 
 ## 🌐 Socials:
