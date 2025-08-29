@@ -17,8 +17,8 @@ Graduated at Technological University Philippines - Cavite
 
 # 🐍 Snake
 
-![GitHub Snake Light](https://raw.githubusercontent.com/<Gilooooo>/<Gilooooo>/output/github-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://raw.githubusercontent.com/<Gilooooo>/<Gilooooo>/output/github-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake Light](https://raw.githubusercontent.com/Gilooooo/Gilooooo/output/github-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/Gilooooo/Gilooooo/output/github-snake-dark.svg#gh-dark-mode-only)
 
-![GitHub Snake Gif](https://raw.githubusercontent.com/<Gilooooo>/<Gilooooo>/output/ocean.gif)
+![GitHub Snake Gif](https://raw.githubusercontent.com/Gilooooo/Gilooooo/output/ocean.gif)
 
