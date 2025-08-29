@@ -15,10 +15,3 @@ Graduated at Technological University Philippines - Cavite
 ---
 [![](https://visitcount.itsvg.in/api?id=Gilooooo&icon=0&color=0)](https://visitcount.itsvg.in)
 
-# 🐍 Snake
-
-![GitHub Snake Light](https://raw.githubusercontent.com/Gilooooo/Gilooooo/output/github-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://raw.githubusercontent.com/Gilooooo/Gilooooo/output/github-snake-dark.svg#gh-dark-mode-only)
-
-![GitHub Snake Gif](https://raw.githubusercontent.com/Gilooooo/Gilooooo/output/ocean.gif)
-
